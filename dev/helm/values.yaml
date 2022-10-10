@@ -179,3 +179,5 @@ postgresql:
     ## Persistent Volume Storage Size.
     ##
     size: 8Gi
+
+extraContainers: []
